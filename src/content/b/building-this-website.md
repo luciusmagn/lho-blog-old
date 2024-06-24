@@ -584,3 +584,22 @@ To me, the result is essentially the same. It outputs static HTML. However,
 I did gain a live reload when editing, which is nice.
 
 I will probably clean this up and make it open-source.
+
+Just like the two previous ones, the content of this website is written
+in Markdown. Technically speaking, the usage of MDX should introduce additional features
+such as letting me use various JS frameworks' components inside these markdown files,
+but I don't think I will ever use it.
+
+Just like with the previous iterations, the theme of this one is minimalism.
+
+This time, I opted to add some minor visual flare:
+- The colors are picked from the **Great Wave Off Kanagawa** painting
+- The UI is cutdown as much as possible
+- TT Livret is used as the main font
+
+This website is not based on any template, it is a very minor amount of CSS,
+just to make sure it kinda works. I tested it on Firefox desktop. Who knows:)
+
+It is likely that I will rewrite the website again in something more Rust-adjacent,
+or some other, probably a more obscure, language. One of my Finnish friends has
+his whole website in Lua. Imagine that.
